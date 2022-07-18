@@ -6,7 +6,7 @@ By default the widget sends postmessage notification events to the parent frame 
 
 Notifications format:
 
-``` 'cdc:' + [step] + ':' + result ```
+``` 'cdc:' + process + ':' + result ```
 
 The main javascript events are:
 
